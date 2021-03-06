@@ -1,0 +1,4 @@
+#ignorar node odules
+node_modules/
+#ignorar sh
+config/env.sh
